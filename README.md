@@ -38,3 +38,6 @@ To repozytorium zawiera rozwiązanie zadania CW-D w ramach kursu APBD. Projekt o
   - URL: `GET http://localhost:5046/participant/3/report`
 - Wygenerowanie raportu udziału uczestników:
   - URL: `GET http://localhost:5046/event/upcoming`
+
+## ERD projektu:
+![diagram placeholder](CW-D-s28166-ERD.png)
